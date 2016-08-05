@@ -1,0 +1,9 @@
+# humanstxt.org/
+
+# TEAM
+
+	Felipe Sousa - Developer
+
+# TECHNOLOGY
+
+	HTML5, CSS3, JS, NODE, ANGULARJS, GIT, IONIC, AGILE
