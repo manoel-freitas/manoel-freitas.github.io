@@ -2,7 +2,7 @@
 
 # TEAM
 
-	Felipe Sousa - Developer
+	Manoel Freitas - Developer
 
 # TECHNOLOGY
 

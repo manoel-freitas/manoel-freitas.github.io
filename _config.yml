@@ -68,14 +68,16 @@ related: true
 # do you want some animations?
 animation: true
 
-gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-paginate
+gems: [
+    jemoji,
+    jekyll-mentions,
+    jekyll-seo-tag,
+    jekyll-feed,
+    jekyll-sitemap,
+    jekyll-gist,
+    jekyll-paginate,
+    jekyll-admin
+]
 
 jekyll-mentions:
     base_url: https://github.com

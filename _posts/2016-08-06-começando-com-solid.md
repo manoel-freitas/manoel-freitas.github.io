@@ -1,7 +1,10 @@
 ---
-title: Começando com SOLID
-cmsUserSlug: começando-com-solid
-date: 2016-08-06T17:30:00-03:00
+title: "Começando com Solid"
+layout: post
+tag:
+    - boas-praticas
+    - SOLID
+blog: true
 ---
 
 Você sabe o que significa SOLID? Se você pensa que é o solid snake do jogo metal gear solid está completamente enganado. SOLID é um acrônimo pra os princípios listados a seguir.

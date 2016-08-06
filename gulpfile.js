@@ -60,7 +60,7 @@ gulp.task('watch', () => {
 });
 
 gulp.task('deploy', function() {
-  return gulp.src('./**/*')
+  return gulp.src(['./**/*',' !_site/'])
     .pipe(ghPages({
         branch:'master'
     }));
