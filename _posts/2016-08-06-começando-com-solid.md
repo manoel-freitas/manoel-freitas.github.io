@@ -7,7 +7,7 @@ tag:
 blog: true
 ---
 
-Você sabe o que significa SOLID? Se você pensa que é o solid snake do jogo metal gear solid está completamente enganado. SOLID é um acrônimo pra os princípios listados a seguir.
+Você sabe o que significa SOLID? Se você pensa que é o [solid snake](https://en.wikipedia.org/wiki/Solid_Snake) do jogo [metal gear](https://en.wikipedia.org/wiki/Metal_Gear)  está completamente enganado. SOLID é um acrônimo pra os princípios listados a seguir.
 
 * Single Responsibility (Única Responsabilidade)
 * Open-Closed (Aberto-Fechado)
