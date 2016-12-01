@@ -12,7 +12,7 @@ Você sabe o que significa SOLID? Se você pensa que é o [solid snake](https://
 * Single Responsibility (Única Responsabilidade)
 * Open-Closed (Aberto-Fechado)
 * Liskov Substitutive (Substituição de Liskov)
-* Interface segregation (Agregação de interfaces)
+* Interface segregation (Segregação de interfaces)
 * Dependency Injection (Injeção de dependências)
 
 Estão cinco são chamados de <b> os cinco princípios de design orientado à objetos </b> e foram cunhados pelo autor e grande desenvolvedor Robert C. Martin popularmente conhecido como [Uncle Bob](https://en.wikipedia.org/wiki/Robert_Cecil_Martin).
@@ -28,6 +28,6 @@ Eis aqui a lista de posts falando sobre cada um dos princípios.
 * [Single Responsibility (Única Responsabilidade)]()
 * [Open-Closed (Aberto-Fechado)]()
 * [Liskov Substitutive (Substituição de Liskov)]()
-* [Interface segregation (Agregação de interfaces)]()
+* [Interface segregation (Segregação de interfaces)]()
 * [Dependency Injection (Injeção de dependências)]()
 
