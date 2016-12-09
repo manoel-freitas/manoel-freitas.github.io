@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:3000/2016/12/single-responsability/</loc>
+<lastmod>2016-12-08T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/2016/12/come%25C3%25A7ando-com-solid/</loc>
+<lastmod>2016-12-05T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/404</loc>
+</url>
+<url>
+<loc>http://localhost:3000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/talk/</loc>
+</url>
+</urlset>
